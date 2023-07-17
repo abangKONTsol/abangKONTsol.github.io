@@ -1,0 +1,22 @@
+{
+  "name": "library-ui-controls-js",
+  "version": "1.0.0",
+  "description": "package frontend basic control ui javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abangKONTsol/library-ui-consoles-js.git"
+  },
+  "keywords": [
+    "library-ui-consoles-js"
+  ],
+  "author": "abangKONTsol (adam yunian)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abangKONTsol/library-ui-consoles-js/issues"
+  },
+  "homepage": "https://github.com/abangKONTsol/library-ui-consoles-js#readme"
+}
